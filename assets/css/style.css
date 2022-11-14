@@ -1,0 +1,10 @@
+.button {
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+.borderx {
+    border: none;
+    outline: none;
+}
